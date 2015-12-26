@@ -1,0 +1,3 @@
+title=Tangrams
+author=goren gordon
+orientation=landscape
